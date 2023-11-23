@@ -50,9 +50,9 @@ Sílvia Araújo, Radia Hannachi, Julien Boccou, Albin Digue, Aurianne Damoy & Be
 Overview of JOKER@ CLEF 2022: Automatic Wordplay and Humour Translation workshop. 
 In International Conference of the Cross-Language Evaluation Forum for European Languages (pp. 447-469). Springer, Cham.
 ```
-[Paper](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_27)
+[Document](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_27)
 
-[Dowload .BIB](../clef-2022/BibTex/joker-clef-2022.bib)
+[Télécharger .BIB](../clef-2022/BibTex/joker-clef-2022.bib)
 
 
 <p>
