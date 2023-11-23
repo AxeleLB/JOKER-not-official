@@ -7,28 +7,28 @@
 <br>
 
 <br>
-  <h1 align="center">CLEF 2023 JOKER Track:</h1>
-  <h2 align="center">Automatic Wordplay Analysis</h2> 
+  <h1 align="center">Suivi CLEF 2023 JOKER :</h1>
+  <h2 align="center">Analyse automatique des jeux de mots</h2> 
 
 
-### Tasks, evaluation setup, and metrics
-In the edition, we propose three shared tasks:
-* **Task 1: Pun detection** in English, French, and Spanish. We will use the corpora which were a side result of JOKER-2022 [1] and the augmented data of SemEval-2017 [2] as well as standard evaluation metrics for binary classification (precision, recall, accuracy)
-* **Task 2: Pun location and interpretation** in English, French, and Spanish. We will use the extended corpus of JOKER-2022 Task 1. We will evaluate location based on the accuracy and the interpretation based on paronyms and synonyms.
-* **Task 3: Pun translation** from English to French and to Spanish. We will use the extended version of the corpus of JOKER-2022 Task 3 and we will continue to evaluate the generated translation manually.
-* **Open Task:** in English, French, and Spanish. In addition, we encourage the use of our data for tasks related to computational wordplay and humour. These could take the form of experiment reports on humour perception, evaluation, wordplay generation, or user studies. Register for any of the aforementioned shared task if you are interested in this open task.
+### Tâches, configuration de l'évaluation et mesures
+Dans l'édition, nous proposons trois tâches partagées :
+* **Tâche 1 : Détection de jeux de mots** en anglais, français et espagnol. Nous utiliserons les corpus issus de JOKER-2022 [1] et les données augmentées de SemEval-2017 [2] ainsi que les métriques d'évaluation standard pour la classification binaire (précision, rappel, exactitude).
+* **Tâche 2 : Localisation et interprétation des jeux de mots** en anglais, français et espagnol. Nous utiliserons le corpus étendu de JOKER-2022 Task 1. Nous évaluerons la localisation en fonction de la précision et de l'interprétation basée sur les paronymes et les synonymes.
+* **Tâche 3 : traduction de jeux de mots** de l'anglais au français et à l'espagnol. Nous utiliserons la version étendue du corpus de JOKER-2022 Task 3 et nous continuerons à évaluer manuellement la traduction générée.
+* **Tâche ouverte :** en anglais, français et espagnol. En outre, nous encourageons l'utilisation de nos données pour des tâches liées aux jeux de mots et à l'humour informatiques. Il peut s'agir de rapports d'expériences sur la perception de l'humour, l'évaluation, la génération de jeux de mots ou d'études d'utilisateurs. Si vous êtes intéressé par cette tâche ouverte, inscrivez-vous à l'une des tâches partagées susmentionnées.
 
-[REGISTER HERE](http://clef2023-labs-registration.dei.unipd.it/)
+[S'INSCRIRE ICI](http://clef2023-labs-registration.dei.unipd.it/)
 
-### References
+### Références
 [1]	L. Ermakova et al., "Overview of the CLEF 2022 JOKER Task 3: Pun Translation from English into French", in Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum, 2022.<br>
 [2]	T. Miller, C. Hempelmann, and I. Gurevych, "SemEval-2017 Task 7: Detection and Interpretation of English Puns", in Proceedings of the 11th International Workshop on Semantic Evaluation           (SemEval-2017), Vancouver, Canada, 2017, p. 58‑68. doi: 10.18653/v1/S17-2005.<br><br><br>
 
 <p>
-<em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" integrated into France 2030, with the Reference ANR-19-GURE-0001.</em>
+<em>Ce projet a reçu une subvention gouvernementale gérée par l'Agence Nationale de la Recherche dans le cadre du programme « Investissements d'avenir » intégré à France 2030, avec la référence ANR-19-GURE-0001.</em>
 </p>
 <p>
-<em>JOKER is supported by The Human Science Institute in Brittany (MSHB)</em>
+<em>JOKER est soutenu par l'Institut des Sciences Humaines de Bretagne (MSHB).</em>
 </p>
 <div align="center">
   <a href="https://www.mshb.fr"><img src="../img/mshb.jpg" height="120"></a>
